@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "215921613544",
+    "project_id": "invman-db",
+    "storage_bucket": "invman-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215921613544:android:9a4e51c61fb6e76df4475d",
+        "android_client_info": {
+          "package_name": "com.example.retail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215921613544-gml61q8rgrf5kkhrnab36q888hpqbgpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hkf5VA4Tsz-ndyQg7P7Iamhly-BjV80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215921613544-gml61q8rgrf5kkhrnab36q888hpqbgpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215921613544-2lugcqd65ie0f68o382nbnjf02covmbr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.retail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
